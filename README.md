@@ -1,2 +1,2 @@
 # CCNY
-My coding journey at CCNY.
+my progress in comp sci at CCNY.
