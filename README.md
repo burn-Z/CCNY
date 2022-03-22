@@ -1,2 +1,1 @@
-# CCNY
-My coding journey at CCNY.
+# Intro to Computer Science
