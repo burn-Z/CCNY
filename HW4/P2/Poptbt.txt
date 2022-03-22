@@ -1,0 +1,9 @@
+Loop 3 4
+Leep 3 2
+Bear 3 2
+Monkey 3 2
+Dog 3 4
+Mask 3 4
+Book 5 2.3
+Hole 32 4.5
+Shirt 23 5
