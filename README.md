@@ -1,2 +1,1 @@
-# CCNY
-My coding journey at CCNY.
+# Data Structures
