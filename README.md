@@ -1,2 +1,2 @@
 # CCNY
-my progress in comp sci at CCNY.
+  My progress in comp sci at CCNY.
